@@ -1,2 +1,2 @@
 # Gulp_basic
-Testing Gulp and some moduls
+Testing Gulp and some modules

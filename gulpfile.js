@@ -5,7 +5,7 @@ let postcss = require("gulp-postcss");
 let autoprefixer = require("autoprefixer");
 let cssnano = require("cssnano");
 let imagemin = require("gulp-imagemin");
-let copy = require("gulp-copy");
+// let copy = require("gulp-copy");
 
 gulp.task("sass", () => {
   return gulp
